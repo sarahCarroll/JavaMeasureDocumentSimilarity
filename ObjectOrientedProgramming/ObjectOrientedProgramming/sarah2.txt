@@ -1,4 +1,0 @@
-hello my name is Sarah 
-i am in college
-i am hating this project
-This is the extra line added to sarah2.txt
